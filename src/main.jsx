@@ -9,7 +9,7 @@ import ContextSearch from './context/ContextSearch.jsx'
 createRoot(document.getElementById('root')).render(
   <StrictMode>
    <BrowserRouter> 
-    <GoogleOAuthProvider clientId='390023175737-1porb5f8tfegfdk0vkgua36g2g5ijsdf.apps.googleusercontent.com'> 
+    <GoogleOAuthProvider clientId='152811620261-ugg2uib91kkhmiv3ki1l8fnt988c41bv.apps.googleusercontent.com'> 
       <ContextSearch>
         <App />
       </ContextSearch>
