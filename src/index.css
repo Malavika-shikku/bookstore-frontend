@@ -1,0 +1,26 @@
+@import "tailwindcss";
+
+*{
+   font-family: "Playfair Display", serif;
+}
+header{
+   background-image: url('https://wallpaperaccess.com/full/922666.jpg');
+   height: 500px;
+   width: 100%;
+   background-position: center;
+   background-repeat: no-repeat;
+   background-size: cover;
+}
+#main{
+   height: 500px;
+   width: 100%;
+   background-color: rgba(0,0,0,0.419);
+}
+#loginPage{
+   background-image: url('https://images.unsplash.com/photo-1610072175216-df383b91b89d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMjA3fDB8MXxzZWFyY2h8MXx8YmlibGUlMjBhbmQlMjBmbG93ZXJzfHwwfHx8fDE2MjkzMDk5NTc&ixlib=rb-1.2.1&q=80&w=1080');
+   height: 100vh;
+   width: 100%;
+   background-position: center;
+   background-repeat: no-repeat;
+   background-size: cover;
+}
